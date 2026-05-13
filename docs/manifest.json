@@ -1,0 +1,26 @@
+{
+  "id": "com.nuvio.documentary-feed",
+  "version": "1.0.0",
+  "name": "Top Documentaries",
+  "description": "Highest-rated documentaries from the last 5 years (TMDB rating >= 7.0, 50+ votes), sorted newest to oldest. Updated daily.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "top-docs-5y",
+      "name": "Top Documentaries (5y)"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

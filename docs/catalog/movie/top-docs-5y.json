@@ -1,0 +1,2006 @@
+{
+  "metas": [
+    {
+      "id": "tt39389429",
+      "type": "movie",
+      "name": "Hannah Montana 20th Anniversary Special",
+      "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
+      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt35003538",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt39162904",
+      "type": "movie",
+      "name": "Queen of Chess",
+      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt39140662",
+      "type": "movie",
+      "name": "Kidnapped: Elizabeth Smart",
+      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
+      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt39307872",
+      "type": "movie",
+      "name": "One Last Adventure: The Making of Stranger Things 5",
+      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt32368068",
+      "type": "movie",
+      "name": "Whispers in the Woods",
+      "poster": "https://image.tmdb.org/t/p/w500/yDXpL3L7ZRMIkwIYwrbvDaJocPi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/aUoZx5eljCac6fhKK4dafIvTYDY.jpg",
+      "description": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt32888451",
+      "type": "movie",
+      "name": "Attitudini: Nessuna",
+      "poster": "https://image.tmdb.org/t/p/w500/4U4X0ykGYTFxvxKT1VvWocRrBkJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gwzBKU5tcq6Y6higxeqwGRe2uoH.jpg",
+      "description": "A portrait of the comic trio \"Aldo, Giovanni e Giacomo\".",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt35520315",
+      "type": "movie",
+      "name": "The Age of Disclosure",
+      "poster": "https://image.tmdb.org/t/p/w500/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6CdrnONBaZsmoEMTn0A4S2Nj4t5.jpg",
+      "description": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt26683420",
+      "type": "movie",
+      "name": "John Candy: I Like Me",
+      "poster": "https://image.tmdb.org/t/p/w500/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+      "description": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt37798645",
+      "type": "movie",
+      "name": "All the Empty Rooms",
+      "poster": "https://image.tmdb.org/t/p/w500/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/jmr5GZmQ2Ds3REQi4FJ4GA0vUBJ.jpg",
+      "description": "A journalist and a photographer set out to memorialize the bedrooms left behind by children killed in school shootings.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt31313835",
+      "type": "movie",
+      "name": "Stans",
+      "poster": "https://image.tmdb.org/t/p/w500/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/cY6IXwtmc8xdznDlw2eegB8OGx1.jpg",
+      "description": "A revealing, edgy, and disarmingly personal journey into the world of superfandom, told through the lens of one of the world's most iconic and enduring artists, Eminem, and the fans that worship him.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt30012657",
+      "type": "movie",
+      "name": "Apocalypse in the Tropics",
+      "poster": "https://image.tmdb.org/t/p/w500/8Bz69UixoR7jPpYuO6NSKOTGDDZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/kfzZ7oaZrM6O6gc6NVY33Gm4NFW.jpg",
+      "description": "Through deep examination, this documentary from Oscar nominee Petra Costa explores the profound impact of evangelism on Brazil's political landscape.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt32743685",
+      "type": "movie",
+      "name": "Jaws @ 50: The Definitive Inside Story",
+      "poster": "https://image.tmdb.org/t/p/w500/kCvCb548scfD0HhkCAwBMKHey5b.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/e4AyTx37zz9MhJEXKHTDlfseMzT.jpg",
+      "description": "The authorized documentary celebrating the film that redefined Hollywood, 50 years after its premiere. Featuring rare archival footage and interviews with acclaimed Hollywood directors alongside Steven Spielberg, top shark scientists, and conservationists, the film uncovers the behind-the-scenes chaos and how the film launched the summer blockbuster, inspired a new wave of filmmakers, and paved the way for shark conservation that continues today.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt35628853",
+      "type": "movie",
+      "name": "Titan: The OceanGate Submersible Disaster",
+      "poster": "https://image.tmdb.org/t/p/w500/mSVJI9P5UmvOLZVTH8sAtlgxsgy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/cBRDacpg1Q6ZOKSxrOhhgkKx9NI.jpg",
+      "description": "OceanGate's Titan tourist submersible imploded in 2023 on a deep-sea dive to the Titanic. This documentary details how a bold vision ended in tragedy.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt34965515",
+      "type": "movie",
+      "name": "Mr. Nobody Against Putin",
+      "poster": "https://image.tmdb.org/t/p/w500/aXCEnrqecvPXohuptN0JRgIvkDj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
+      "description": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt36751759",
+      "type": "movie",
+      "name": "Wick Is Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/fog8Vbeg1KOZAucucPxgYpXJ0a0.jpg",
+      "description": "Witness the never-before-seen footage and true story behind the John Wick phenomenon – from independent film to billion-dollar franchise.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt33022710",
+      "type": "movie",
+      "name": "Ocean with David Attenborough",
+      "poster": "https://image.tmdb.org/t/p/w500/oAKzcqUCP3EK7rgAx9Jj8Futv8O.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/2hthvh4L1pHYZ5alepSqIAFYrRv.jpg",
+      "description": "David Attenborough takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt36617085",
+      "type": "movie",
+      "name": "Karol G: Tomorrow Was Beautiful",
+      "poster": "https://image.tmdb.org/t/p/w500/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/zlh5SvcZi30smGzfHoSasN3FJzG.jpg",
+      "description": "Karol G pulls back the curtain on her rise to stardom while navigating a sold-out stadium tour, creating new music and releasing a new album.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt10365912",
+      "type": "movie",
+      "name": "Becoming Led Zeppelin",
+      "poster": "https://image.tmdb.org/t/p/w500/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
+      "description": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt37546146",
+      "type": "movie",
+      "name": "Squid Game: Making Season 2",
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "description": "From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt34058121",
+      "type": "movie",
+      "name": "The Lost Children",
+      "poster": "https://image.tmdb.org/t/p/w500/5Te2bKuSyVkqt0m2GdSueU4dfCZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/z0v2QdZq4I61xt8mBlxKRyoOGqm.jpg",
+      "description": "After a plane crash, four indigenous children fight to survive in the Colombian Amazon using ancestral wisdom as an unprecedented rescue mission unfolds.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt34139335",
+      "type": "movie",
+      "name": "Return of the King: The Fall and Rise of Elvis Presley",
+      "poster": "https://image.tmdb.org/t/p/w500/eijfr4QiMu1ZK2XfBNd9KjoRmau.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/9o29QNQh1TT0zkZfcciFFA5sUNP.jpg",
+      "description": "He had one chance to show the world he was still the King of Rock 'n' Roll. Discover the story behind Elvis Presley's triumphant '68 comeback special.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt30953759",
+      "type": "movie",
+      "name": "No Other Land",
+      "poster": "https://image.tmdb.org/t/p/w500/s7XYieuZg9kMe07i9VI4bfGN4Pw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/bBleQSVXH97a0G2oF9MDAYCOlLG.jpg",
+      "description": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt26420234",
+      "type": "movie",
+      "name": "Music by John Williams",
+      "poster": "https://image.tmdb.org/t/p/w500/dIZ3SzuT3YuAWX1fjdxDevbwQBX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/7jzCLnt5IDGDHhNAKTfbq1In4dM.jpg",
+      "description": "His unforgettable scores are an essential part of some of the most beloved movies of our time, over a career that spans decades. See and hear maestro John Williams' own story, with insights from filmmakers, musicians, and others he has inspired, complete with rare behind-the-scenes looks at the making of movie history.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt30227076",
+      "type": "movie",
+      "name": "Black Box Diaries",
+      "poster": "https://image.tmdb.org/t/p/w500/wX95ps6Haijvt7evwSwqx1gs88e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sC5FzA4DfQr6ML3rSKL3E3v5as8.jpg",
+      "description": "Journalist Shiori Ito embarks on a courageous investigation of her own sexual assault in an improbable attempt to prosecute her high-profile offender. Her quest becomes a landmark case in Japan, exposing the country's outdated judicial and societal systems.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt31064841",
+      "type": "movie",
+      "name": "Piece by Piece",
+      "poster": "https://image.tmdb.org/t/p/w500/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+      "description": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "genres": [
+        "Animation",
+        "Music",
+        "Documentary",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt33481094",
+      "type": "movie",
+      "name": "The Menendez Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/zQ32RXVzrNq93TgfKMP4Q3rkzDe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/htEHcgW0vTK3d5jBwMjA7RADnTk.jpg",
+      "description": "Serving life in prison for murdering their parents, Lyle and Erik Menendez speak out in this documentary explaining the shocking crime and ensuing trials.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt31353337",
+      "type": "movie",
+      "name": "The Apocalypse of St John",
+      "poster": "https://image.tmdb.org/t/p/w500/zzXU586n4uDBgMtVMPPQW7UJwu8.jpg",
+      "posterShape": "poster",
+      "background": null,
+      "description": "Embark on an epic journey through time and faith with 'The Apocalypse of Saint John.' Join the Apostle John in a stunning visual narrative that unravels the visions of the End Times. Experience each vision like never before, with striking visual effects and epic scenes that immerse you in the apocalyptic narrative.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.4",
+      "genres": [
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt27902121",
+      "type": "movie",
+      "name": "Super/Man: The Christopher Reeve Story",
+      "poster": "https://image.tmdb.org/t/p/w500/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xD3ePiiueSrWp4aXtZNrWhzLrlh.jpg",
+      "description": "Christopher Reeve portrayed the Man of Steel in four Superman films and played dozens of other roles that displayed his talent and range as an actor, before being injured in a near-fatal horse-riding accident in 1995 that left him paralyzed from the neck down. After becoming a quadriplegic, he became a charismatic leader and activist in the quest to find a cure for spinal cord injuries, as well as a passionate advocate for disability rights and care.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt33317283",
+      "type": "movie",
+      "name": "Kaizen",
+      "poster": "https://image.tmdb.org/t/p/w500/mbpZW0TOykpaEZwEIO5RR4ul3ca.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/s8Uph48OjSrZqHoIZaY4L4jPNs3.jpg",
+      "description": "Becoming a mountaineer and climbing Everest in exactly one year? That’s the dream of Inoxtag, a 21-year-old very rich YouTuber who doesn’t do any sports. By following him for a year, we will discover in this documentary all the changes in his life to achieve this dream.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary",
+        "TV Movie"
+      ]
+    },
+    {
+      "id": "tt30321133",
+      "type": "movie",
+      "name": "Will & Harper",
+      "poster": "https://image.tmdb.org/t/p/w500/1xbYcoEb9gqezNnLgjWcZI5Hlsl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/p8o3o3oETlAZxfQf10T6vJG8eZq.jpg",
+      "description": "When Will Ferrell's good friend Harper comes out as a trans woman, they take a road trip to bond and reintroduce Harper to the country as her true self.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt14452174",
+      "type": "movie",
+      "name": "Soundtrack to a Coup d'Etat",
+      "poster": "https://image.tmdb.org/t/p/w500/eZOB9UurVQjpdIp72L49pyd3anw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/fUlzONyAzageVzf2ruxkw3RWEiM.jpg",
+      "description": "Jazz and decolonization are intertwined in a powerful narrative that recounts one of the tensest episodes of the Cold War.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary",
+        "History",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt32907397",
+      "type": "movie",
+      "name": "Inside the Mind of a Dog",
+      "poster": "https://image.tmdb.org/t/p/w500/rajrUCW4fkvdK4EDickfpK9wLbO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sfLcDO1Jv2W90Inj4ibH9UQ6HtO.jpg",
+      "description": "Embark on a delightful journey into the world of dogs in this documentary that reveals scientific and emotional insights about our lovable BFFs.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30319854",
+      "type": "movie",
+      "name": "Sugarcane",
+      "poster": "https://image.tmdb.org/t/p/w500/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xoguYBNxXhyiQasTZyIxaYMjcUq.jpg",
+      "description": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30319830",
+      "type": "movie",
+      "name": "Skywalkers: A Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/kD23EdSc8DnZVos4woQps0a7rJ7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3CwKraydx0pon9wRrysJXmDMVJT.jpg",
+      "description": "Two real-life daredevils test the limits of their love and trust by illegally scaling one of the world's tallest buildings to perform an acrobatic stunt.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt32260498",
+      "type": "movie",
+      "name": "Rite Here Rite Now",
+      "poster": "https://image.tmdb.org/t/p/w500/w3xJNhW5ZYuK3BySbsJiGDmKEiV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3e8IhctkdEXfBxxC9ms2eWEjjCE.jpg",
+      "description": "Whether you’re a devoted disciple looking to relive treasured memories of the GHOST live spectacle or among the curious uninitiated, RITE HERE RITE NOW will put you right there: putting your phones down and living in the moment—as a shadow of uncertainty looms—completely spellbound and in the thrall of this bombastic yet intimate cinematic portrait of GHOST.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.8",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt28620587",
+      "type": "movie",
+      "name": "I Am: Celine Dion",
+      "poster": "https://image.tmdb.org/t/p/w500/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/1iroQlJdPccnoUi4PGsIRFWPLBV.jpg",
+      "description": "A raw and honest behind-the-scenes look at the iconic superstar's struggle with a life-altering illness. Serving as a love letter to her fans, this inspirational documentary highlights the music that has guided her life while also showcasing the resilience of the human spirit.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt31392065",
+      "type": "movie",
+      "name": "Federer: Twelve Final Days",
+      "poster": "https://image.tmdb.org/t/p/w500/kunqcryDeYZxBg4ESat2We5qRtD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sIwhdAN3sqk3oK1fUORqbrG4aEn.jpg",
+      "description": "Originally a home video never intended for public viewing, this film captures the final chapter in Roger Federer's legendary tennis career, featuring Roger, his family, and his three main rivals: Rafael Nadal, Novak Djokovic, and Andy Murray.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt32138523",
+      "type": "movie",
+      "name": "Avicii - I'm Tim",
+      "poster": "https://image.tmdb.org/t/p/w500/bHrkrKQxYKem0ljWHPinIQK2gxy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xmPdcsxOXukLUcF7dJd2z2rmUpV.jpg",
+      "description": "Before Avicii, there was Tim. Through his own words, witness how a prodigious musical talent became one of the defining artists of his generation.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt19308034",
+      "type": "movie",
+      "name": "Jim Henson Idea Man",
+      "poster": "https://image.tmdb.org/t/p/w500/w1IYhFVW2XyKfkIyZ65jZ2Uyn6Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/yfLAaxP3T0p08X0gxHm8zYdjnHC.jpg",
+      "description": "Featuring unprecedented access to Jim Henson's personal archives, filmmaker Ron Howard brings us a fascinating and insightful look at a complex man whose boundless imagination inspired the world.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt31852716",
+      "type": "movie",
+      "name": "Apollo 13: Survival",
+      "poster": "https://image.tmdb.org/t/p/w500/9tuK9kKSB2L6rMVlNOjwiWQaWxh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gRLrlofwDuICqGIEXYkoElDe4Y.jpg",
+      "description": "Using original footage and interviews, this documentary tells the nail-biting story of Apollo 13 and the struggle to bring its astronauts safely home.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt19811010",
+      "type": "movie",
+      "name": "The Remarkable Life of Ibelin",
+      "poster": "https://image.tmdb.org/t/p/w500/3gk2F3wrPCPzrnUM81tjVcgyWHV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sDBY5oI7I5SWSMWRpsTEmSBErfe.jpg",
+      "description": "The secret life of a young World of Warcraft gamer is vividly reimagined when his online friends contact his family after his death.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1",
+      "genres": [
+        "Documentary",
+        "Animation"
+      ]
+    },
+    {
+      "id": "tt31414509",
+      "type": "movie",
+      "name": "The Walking Dead: The Return",
+      "poster": "https://image.tmdb.org/t/p/w500/3clopfmZ8x6s1reWC6fxgXkysZz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/kBmwtsPTG0P79oyoTBhaKfCxvSl.jpg",
+      "description": "Stars of \"The Walking Dead,\" Andrew Lincoln and Danai Gurira, walk down memory lane and visit iconic locations where pivotal moments between their characters, Rick and Michonne, were filmed.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt31014113",
+      "type": "movie",
+      "name": "Society of the Snow: Who Were We on the Mountain?",
+      "poster": "https://image.tmdb.org/t/p/w500/uHTQVdJHbPMvaOdzqlqBXFTctCp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/fh022Zgyoq1UzxshTObNLjQ2JoC.jpg",
+      "description": "An in-depth look at the creative process behind \"Society of the Snow,\" featuring cast, crew, director J.A. Bayona and even real-life survivors.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30796448",
+      "type": "movie",
+      "name": "The Greatest Night in Pop",
+      "poster": "https://image.tmdb.org/t/p/w500/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/Amb16QpgV4ZxdU8C80SW6JNySp9.jpg",
+      "description": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt30394627",
+      "type": "movie",
+      "name": "Muchachos, la película de la gente",
+      "poster": "https://image.tmdb.org/t/p/w500/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
+      "description": "The celebrations for the title of the Argentine National Team in the World Cup in Qatar 2022, through videos of Argentines around the world and unpublished material of the party in the streets.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30342692",
+      "type": "movie",
+      "name": "I Choose to Believe",
+      "poster": "https://image.tmdb.org/t/p/w500/2Sx0Xz8cvnCRNLZjIQWgKWLIaks.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wDSleqaukgwU8kILLrpP4Kf60eV.jpg",
+      "description": "It narrates the epic title obtained by the Argentine National Team in the World Cup Qatar 2022 with testimonies of the protagonists, told from the intimacy and in first person.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30327680",
+      "type": "movie",
+      "name": "Making Squid Game: The Challenge",
+      "poster": "https://image.tmdb.org/t/p/w500/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/i9bhxhUBFZHorvK81GNKMJGj2Kt.jpg",
+      "description": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt22482764",
+      "type": "movie",
+      "name": "Thriller 40",
+      "poster": "https://image.tmdb.org/t/p/w500/5LOKk1Ca1YaCb3EjTEMDJdPbQxN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/kkyn5vyMqkgCp944QeBumJ6aktP.jpg",
+      "description": "Forty years after the release of Michael Jackson’s ‘Thriller,’ the best-selling album of all-time, director Nelson George takes fans back in time to the making of a pop masterpiece, featuring never-before-seen footage and candid interviews.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.5",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt29491918",
+      "type": "movie",
+      "name": "David Holmes: The Boy Who Lived",
+      "poster": "https://image.tmdb.org/t/p/w500/pL8BuguWW1ZRksHIMwuK9UD4ROd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sp7GUxx4kEae1t79BKY7kLldDJb.jpg",
+      "description": "As Daniel Radcliffe's stunt double in the Harry Potter films, David Holmes' work has been seen worldwide by millions of people. Tragically an on-set accident ended what David calls \"the best job in the world,\" leaving him paralyzed. Like the on-screen character he helped bring to life, David is determined to continue seeking adventure and living life to the fullest despite mounting obstacles.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21191906",
+      "type": "movie",
+      "name": "After Death",
+      "poster": "https://image.tmdb.org/t/p/w500/jftgQ8mYaPFYf0UywgwgqimAkmu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/pNXsM122xlQ1ocp3trfoDFSUvJN.jpg",
+      "description": "Based on real near-death experiences, the afterlife is explored with the guidance of New York Times bestselling authors, medical experts, scientists and survivors who shed a light on what awaits us.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt25470468",
+      "type": "movie",
+      "name": "Beyond Utopia",
+      "poster": "https://image.tmdb.org/t/p/w500/fcyCtyXabv0X8TInqoL9yq5DCdb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/2pBDP2Ip5mQemw3PYTjDLYv9XI9.jpg",
+      "description": "A courageous pastor uses his underground network to rescue and aid North Korean families as they risk their lives to embrace freedom.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt28254460",
+      "type": "movie",
+      "name": "Sly",
+      "poster": "https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/eca3tlO1vtnua8LUK70ISDMYcwF.jpg",
+      "description": "His love of film began as an escape from a rocky childhood. From underdog to Hollywood legend, Sylvester Stallone tells his story in this documentary.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27502227",
+      "type": "movie",
+      "name": "Pictures of Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w500/aFYGUmC7efpLkHUCbhIBppYiFd8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/fz4wnEWbY3V137tlk9T1NbX1xkD.jpg",
+      "description": "Downtown Recife’s classic movie palaces from the 20th century are mostly gone. That city area is now an archaeological site of sorts that reveals aspects of life in society which have been lost. And that’s just part of the story.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24082488",
+      "type": "movie",
+      "name": "The Eternal Memory",
+      "poster": "https://image.tmdb.org/t/p/w500/dKIcHpK6EtKocvE2PHVfmkYtrdK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/d0WXOA6pQanoDBc60WtEaF5oM5R.jpg",
+      "description": "Augusto and Paulina have been together for 25 years. Eight years ago, he was diagnosed with Alzheimer's disease. Both fear the day he no longer recognizes her.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt19113292",
+      "type": "movie",
+      "name": "Missing: The Lucie Blackman Case",
+      "poster": "https://image.tmdb.org/t/p/w500/6zNf7MXyHkCauIc066SbVoA7wLR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xSA5QFCFLdjrJlhbnbXbJmiJ6v4.jpg",
+      "description": "July 1, 2000. British 21-year-old Lucie Blackman goes missing in Tokyo, sparking an international investigation — and an unyielding quest for justice.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt27837488",
+      "type": "movie",
+      "name": "Unknown: Cosmic Time Machine",
+      "poster": "https://image.tmdb.org/t/p/w500/1ZxroOwIaD6JGCYraNEJKddOUWp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gAWocJ4tlgwm6iDFrGeXOg1IAcv.jpg",
+      "description": "The James Webb Telescope stirs imaginations with vivid photos of distant galaxies. This documentary tracks its historic journey from inception to launch.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15210256",
+      "type": "movie",
+      "name": "Stephen Curry: Underrated",
+      "poster": "https://image.tmdb.org/t/p/w500/mFpnGiDrY9Brz4FQLKBKX1uCbl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/kffxjVKaxjFM6utstRUFKbB8DZk.jpg",
+      "description": "The remarkable coming-of-age story of Stephen Curry—one of the most influential, dynamic, and unexpected players in basketball history—and his rise from an undersized college player to a four-time NBA champion.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27837467",
+      "type": "movie",
+      "name": "Unknown: Cave of Bones",
+      "poster": "https://image.tmdb.org/t/p/w500/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6inQZW13AWeSPPPSrKqVJZNfjiI.jpg",
+      "description": "Scientists examine underground clues from over 250,000 years ago that raise questions about our early relatives — and what it truly means to be human.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24082438",
+      "type": "movie",
+      "name": "20 Days in Mariupol",
+      "poster": "https://image.tmdb.org/t/p/w500/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
+      "description": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary",
+        "War"
+      ]
+    },
+    {
+      "id": "tt28240284",
+      "type": "movie",
+      "name": "To End All War: Oppenheimer & the Atomic Bomb",
+      "poster": "https://image.tmdb.org/t/p/w500/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wBuMF4MmmF3XDaTpvx3gNWbq0tR.jpg",
+      "description": "Explore how one man's relentless drive and invention of the atomic bomb changed the nature of war forever, led to the deaths of hundreds of thousands of people and unleashed mass hysteria.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt27502426",
+      "type": "movie",
+      "name": "Four Daughters",
+      "poster": "https://image.tmdb.org/t/p/w500/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
+      "description": "Between light and darkness stands Olfa, a Tunisian woman and the mother of four daughters. One day, her two older daughters disappear. To fill in their absence, the filmmaker Kaouther Ben Hania invites professional actresses and invents a unique cinema experience that will lift the veil on Olfa and her daughters' life stories. An intimate journey of hope, rebellion, violence, transmission and sisterhood that will question the very foundations of our societies.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt27726927",
+      "type": "movie",
+      "name": "WHAM!",
+      "poster": "https://image.tmdb.org/t/p/w500/mQbva3zRZz2f6Vuov0RmevYsolj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3OYdLI1I8lZKkzu3AgEm3iHyvip.jpg",
+      "description": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham! career, from 70s best buds to 80s pop icons.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt27906298",
+      "type": "movie",
+      "name": "Eldorado: Everything the Nazis Hate",
+      "poster": "https://image.tmdb.org/t/p/w500/hRxLEqRj1qEqxvfpQLtZKANmqDU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/64urMQXrdPVA8hr4PJayN7s5M8l.jpg",
+      "description": "A glittery nightclub in 1920s Berlin becomes a haven for the queer community in this documentary exploring the freedoms lost amid Hitler’s rise to power.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14666592",
+      "type": "movie",
+      "name": "Milli Vanilli",
+      "poster": "https://image.tmdb.org/t/p/w500/fVC6z68GbLHqf4LCgJUGfArlzXb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/rWHgkCGMpGMXbbGxQIhyngeO7wC.jpg",
+      "description": "The story of Robert Pilatus and Fabrice Morvan, who became fast friends during their youth in Germany. With Rob coming from a broken home and Fabrice having left an abusive household, they shared a similar upbringing, as well as a future goal: to become famous superstars. In a few short years, their dreams came true. Rob and Fab, better known as Milli Vanilli, became the world's most popular pop duo in 1990 and won the GRAMMY for Best New Artist. However, their ascension to success came with a devastating price that ultimately led to their infamous undoing.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27542448",
+      "type": "movie",
+      "name": "Take Care of Maya",
+      "poster": "https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/i6ZQKIiQKHmcAKxbe4Tk5AcLugY.jpg",
+      "description": "When Jack and Beata Kowalski are wrongfully accused of child abuse after their 10-year-old daughter Maya visits the ER, a nightmare unfolds.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt25363184",
+      "type": "movie",
+      "name": "Stan Lee",
+      "poster": "https://image.tmdb.org/t/p/w500/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/u0HBu7x5cwFe7BN7ANgYK98rgXc.jpg",
+      "description": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27881351",
+      "type": "movie",
+      "name": "Lionel Messi: Destiny",
+      "poster": "https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/4YQse2hBVGq6duMF33neKL0mWkH.jpg",
+      "description": "Behind-the-scenes documentary about how Lionel Messi succeeded in lifting the World Cup – the only trophy to have eluded him in an incredible career.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27441525",
+      "type": "movie",
+      "name": "The Pope: Answers",
+      "poster": "https://image.tmdb.org/t/p/w500/jAQLc7BO7wRUKpHx7NDNnhOkKWv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/uXADu1mfgTwNkBjgtDkLQRt5N8a.jpg",
+      "description": "Ten young people from all over the world meet in Rome with Pope Francis with the aim of talking and conveying to him the main concerns of their generation. What awaits them is an unprecedented meeting, a face-to-face conversation, and a unique event.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24807190",
+      "type": "movie",
+      "name": "BTS: Yet to Come in Cinemas",
+      "poster": "https://image.tmdb.org/t/p/w500/eWb45OsBHSO2t1j068bqDsPOGG9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/86X09HCJo8s83s32H2Frz7G0jMx.jpg",
+      "description": "Join RM, Jin, SUGA, j-hope, Jimin, V and Jung Kook in this special cinematic cut, re-edited and remixed for the big screen. Watch new close-up angles and a whole new view of the entire concert, BTS Yet To Come in Busan. Featuring hit songs from across the group's career, including \"Dynamite,\" \"Butter\" and “IDOL,\" plus the first concert performance of \"Run BTS\" from the group’s latest album Proof.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.3",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt18376122",
+      "type": "movie",
+      "name": "Pamela, A Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
+      "description": "In her own words, through personal video and diaries, Pamela Anderson shares the story of her rise to fame, rocky romances and infamous sex tape scandal.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24132732",
+      "type": "movie",
+      "name": "The Deepest Breath",
+      "poster": "https://image.tmdb.org/t/p/w500/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8J0gmuwmq8z7TI4YuWDTclHoB75.jpg",
+      "description": "Bonded by their love of freediving, a record-setting champion and a heroic safety diver try to make history with a remarkable feat, ready to risk it all.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt19853258",
+      "type": "movie",
+      "name": "STILL: A Michael J. Fox Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wQiXDEzfU8pydakr5yZ01bhlN30.jpg",
+      "description": "A short kid from a Canadian army base becomes the international pop culture darling of the 1980s—only to find the course of his life altered by a stunning diagnosis. What happens when an incurable optimist confronts an incurable disease?",
+      "releaseInfo": "2023",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt22695080",
+      "type": "movie",
+      "name": "Encanto at the Hollywood Bowl",
+      "poster": "https://image.tmdb.org/t/p/w500/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xk8GTxGGDNMLDdho3XCNHJHYuDk.jpg",
+      "description": "Step into Casa Madrigal for a special concert spectacular as the original voice cast of Disney Animation's Oscar®-winning \"Encanto,\" Stephanie Beatriz, Adassa, Carolina Gaitán, Jessica Darrow, Diane Guerrero, Mauro Castillo, Angie Cepeda and Olga Merediz, along with special guests including Colombian superstar Carlos Vives, reunites for \"Encanto at the Hollywood Bowl.\" This unprecedented concert experience gives you a front-row seat to the musical extravaganza celebrating the global phenomenon.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24529122",
+      "type": "movie",
+      "name": "Avatar: The Deep Dive - A Special Edition of 20/20",
+      "poster": "https://image.tmdb.org/t/p/w500/pzZGqIyrrSqIfrkPLJnN1tvCGnV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
+      "description": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt24216364",
+      "type": "movie",
+      "name": "Guillermo del Toro's Pinocchio: Handcarved Cinema",
+      "poster": "https://image.tmdb.org/t/p/w500/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3SCf2FJrlBG2qzKeFWsphRZnMhF.jpg",
+      "description": "With mesmerizing footage and time lapses of animators at work, this behind-the-scenes special captures the artistry of a unique tale years in the making.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt23628262",
+      "type": "movie",
+      "name": "The Elephant Whisperers",
+      "poster": "https://image.tmdb.org/t/p/w500/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
+      "description": "Bomman and Bellie, a couple in south India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21374850",
+      "type": "movie",
+      "name": "All the Beauty and the Bloodshed",
+      "poster": "https://image.tmdb.org/t/p/w500/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/anw7ONmtm1BrHd1Du0GQ5FoNd6r.jpg",
+      "description": "The life of internationally renowned artist and activist Nan Goldin is told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family accountable for the overdose crisis.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt22440764",
+      "type": "movie",
+      "name": "I Am Vanessa Guillen",
+      "poster": "https://image.tmdb.org/t/p/w500/cUhmtPP9L8BBnuquyPE4zOU2RTg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6sldBftt9plrgf3dygltLccuWIL.jpg",
+      "description": "Vanessa Guillen was 20 years old when she was found murdered at a US Army base. Rather than submit to silence, her family fought for justice and change.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21819228",
+      "type": "movie",
+      "name": "Stutz",
+      "poster": "https://image.tmdb.org/t/p/w500/uOiJmotRM12wsgfwiEXsp3AErdU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/ubtLuy2SsC7q0BIewPPOGeQVtlN.jpg",
+      "description": "In candid conversations with actor Jonah Hill, leading psychiatrist Phil Stutz explores his early life experiences and unique, visual model of therapy.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21819250",
+      "type": "movie",
+      "name": "Selena Gomez: My Mind & Me",
+      "poster": "https://image.tmdb.org/t/p/w500/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+      "description": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt14179942",
+      "type": "movie",
+      "name": "Good Night Oppy",
+      "poster": "https://image.tmdb.org/t/p/w500/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/bfYDeFDmoweRdmTt0ifHPOMgNXV.jpg",
+      "description": "The inspirational true story of Opportunity, a rover that was sent to Mars for a 90-day mission but ended up surviving for 15 years. Follow Opportunity’s groundbreaking journey on Mars and the remarkable bond forged between a robot and her humans millions of miles away.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21439528",
+      "type": "movie",
+      "name": "The Volcano: Rescue from Whakaari",
+      "poster": "https://image.tmdb.org/t/p/w500/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/uJKLjMCLSNfQCiw6WFmnSJcPg29.jpg",
+      "description": "A close examination of the Whakaari / White Island volcanic eruption of 2019 in which 22 lives were lost, the film viscerally recounts a day when ordinary people were called upon to do extraordinary things, placing this tragic event within the larger context of nature, resilience, and the power of our shared humanity.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt22988228",
+      "type": "movie",
+      "name": "Racionais MC's: From the Streets of São Paulo",
+      "poster": "https://image.tmdb.org/t/p/w500/wuAti3pkylfx0EyhfRUPpxK6Xkm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/nTzvTiyS1rPOMLSwwMUTMefzp0u.jpg",
+      "description": "Armed with music and a message, influential hip-hop group Racionais MC's turned their street poetry into a powerful movement in Brazil and beyond.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt21382430",
+      "type": "movie",
+      "name": "Sergio Leone: The Italian Who Invented America",
+      "poster": "https://image.tmdb.org/t/p/w500/aCKJgQ4pA68AadCzvGsngWQLHeV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/d67M27QMwFY8Kx7kC9ug3Xeiqou.jpg",
+      "description": "To mark the recent thirtieth anniversary of Sergio Leone’s death, this documentary sets out to pay tribute to one of the great legends of world cinema. The singular artistic vision of Sergio Leone has transcended national borders, creating the Spaghetti Western genre and transforming the international cinematic panorama forever with his innovative stylistic and narrative solutions, which have now become part of the language of the movies. The film, which is enriched with precious archive footage from the Cineteca di Bologna, including rare audio recordings and film clips shot behind the scenes, sees for the first time the direct participation of the Leone family and has interviews both with Leone’s longtime collaborators and with icons of Hollywood who have been profoundly influenced by his work.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21837726",
+      "type": "movie",
+      "name": "The Redeem Team",
+      "poster": "https://image.tmdb.org/t/p/w500/iXu5rPQYean8AktqZHmWb27rOEe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/arA7AFtzpJdOmWMQNh5gXpfR7SD.jpg",
+      "description": "Using unprecedented Olympic footage and behind-the-scenes material, The Redeem Team tells the story of the US Olympic Men's Basketball Team’s quest for gold at the 2008 Olympic Games in Beijing following the previous team’s shocking performance four years earlier in Athens.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt16433236",
+      "type": "movie",
+      "name": "The Sound of 007",
+      "poster": "https://image.tmdb.org/t/p/w500/wHsfL0ub95Xr6GK6tJUpmVnrT1J.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/mjwt3MkRBz2dkISyeUBp8n4KFQ.jpg",
+      "description": "Pull back the curtain on the remarkable history of six decades of James Bond music,  from Sean Connery’s Dr No through to Daniel Craig’s final outing in No Time to Die.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Music",
+        "TV Movie"
+      ]
+    },
+    {
+      "id": "tt21929356",
+      "type": "movie",
+      "name": "A Trip to Infinity",
+      "poster": "https://image.tmdb.org/t/p/w500/24EXccaDuDEMYp7eVvsCicj5K41.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6Bgd7xihK37b98ERPTvLOqQO1eu.jpg",
+      "description": "Does infinity exist? Can we experience the Infinite? In an animated film (created by artists from 10 countries) the world's most cutting-edge scientists and mathematicians go in search of the infinite and its mind-bending implications for the universe.  Eminent mathematicians, particle physicists and cosmologists dive into infinity and its mind-bending implications for the universe.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt10196368",
+      "type": "movie",
+      "name": "Nothing Compares",
+      "poster": "https://image.tmdb.org/t/p/w500/u3lFwv2gLv49qckyiFNv21VYmv5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qbpsf5UcelWhslcw8sk0UIKJ1Oh.jpg",
+      "description": "Since the beginning of her career, Sinéad O’Connor has used her powerful voice to challenge the narratives she was surrounded by while growing up in predominantly Roman Catholic Ireland. Despite her agency, depth and perspective, O’Connor’s unflinching refusal to conform means that she has often been patronized and unfairly dismissed as an attention-seeking pop star.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt9883832",
+      "type": "movie",
+      "name": "Moonage Daydream",
+      "poster": "https://image.tmdb.org/t/p/w500/tJCZI1tO0sYIV0mGo0Awcr996vm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/bSgSJfkTutcllEvhDDWtMGgdl2b.jpg",
+      "description": "A cinematic odyssey featuring never-before-seen footage exploring David Bowie's creative and musical journey.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt22010428",
+      "type": "movie",
+      "name": "BTS: Permission to Dance on Stage - LA",
+      "poster": "https://image.tmdb.org/t/p/w500/9pNGRpOOQpZtqMLncEcQDv86OkW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/4IMn2EqCBb4n4r6FODOP7fJQIdi.jpg",
+      "description": "Purple colors the city of Los Angeles, as BTS brings their \"Permission to Dance\" concert to SoFi Stadium for the first time in two years. In a stadium radiating anticipation and cheer, splendid performances from \"On\" to \"Permission to Dance\" glorify the stage that now comes to life on screen. Be united once again by the power of music.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.8",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21388560",
+      "type": "movie",
+      "name": "Untold: The Rise and Fall of AND1",
+      "poster": "https://image.tmdb.org/t/p/w500/o75Sxg2s9zM817Whjc9b3vpk5sW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xk3hEhpwFWr6UaxS0BORDGgyj3t.jpg",
+      "description": "Inspired by New York City streetball, influential brand AND1 turned local legends on the court into international icons. So why did it come to an end?",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21340412",
+      "type": "movie",
+      "name": "Inside the Mind of a Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/lqngTIvF2UdcK9uTZ8nLX3AfbHp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/vVxkzboAYykG7hMwga50KN5gNfo.jpg",
+      "description": "Cat experts dive into the mind of the feline to reveal the true capabilities of the pouncing pet in this captivating and cuddly documentary.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21394322",
+      "type": "movie",
+      "name": "South Park: The 25th Anniversary Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/awZ6LARNXh1hmZyn9XY6WMlkaR4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/l6kyqzzfY2AaZxk7fzgJqAF4KbD.jpg",
+      "description": "Trey Parker and Matt Stone celebrate South Park's 25th anniversary with a concert in Colorado, featuring Primus and Ween.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.2",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Documentary",
+        "TV Movie"
+      ]
+    },
+    {
+      "id": "tt16306510",
+      "type": "movie",
+      "name": "Rubius X",
+      "poster": "https://image.tmdb.org/t/p/w500/k6KAAVebtdVb0FRU2PWqYLnhgRA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/9k6dWJws6iAxZTG5Nz4Ow1gamB1.jpg",
+      "description": "On the 10th anniversary of the publication of his first video on the Internet, \"Rubius X\" is a documentary that deals with the origin, motivation and secrets behind Rubius, one of the most followed Spanish content creators in the world. A review of the history of a pioneer, the icon of a whole generation, who represents like few others the revolution of the new digital media.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21098288",
+      "type": "movie",
+      "name": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
+      "poster": "https://image.tmdb.org/t/p/w500/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/2YKuCnkqOPvHV1mrxwU3RzX0QY0.jpg",
+      "description": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt21059520",
+      "type": "movie",
+      "name": "Girl in the Picture",
+      "poster": "https://image.tmdb.org/t/p/w500/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qg2ar8RD0V543u8T35SxTguGV2W.jpg",
+      "description": "A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt16227014",
+      "type": "movie",
+      "name": "Fire of Love",
+      "poster": "https://image.tmdb.org/t/p/w500/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
+      "description": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt16026684",
+      "type": "movie",
+      "name": "Beyond Infinity: Buzz and the Journey to Lightyear",
+      "poster": "https://image.tmdb.org/t/p/w500/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/mBJ995JUssgh2hhm4JxNj8hyVVM.jpg",
+      "description": "Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt20420316",
+      "type": "movie",
+      "name": "Gladbeck: The Hostage Crisis",
+      "poster": "https://image.tmdb.org/t/p/w500/3gQVzkLd8GxqNVG5t5CkQEvMDnD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/ugdryGVwOCSE4ic2A3vud8dv8qy.jpg",
+      "description": "In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt20782916",
+      "type": "movie",
+      "name": "A Fan's Guide to Ms. Marvel",
+      "poster": "https://image.tmdb.org/t/p/w500/aolMYjs6QWonQFlnRGvU3o5zeQH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/709oX5ro1SON6OkaVnA8MOx1WSK.jpg",
+      "description": "A documentary short that gives you an exclusive look behind the groundbreaking original series, \"Ms. Marvel\", from its comic book origins to its development and production as Marvel Studios’ next hit series on Disney+. It features interviews with its award winning filmmaking team and the show’s captivating star, newcomer Iman Vellani.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt19768508",
+      "type": "movie",
+      "name": "Cyber Hell: Exposing an Internet Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/okUGREWC4LN2TSjFX0AOiNJhzdN.jpg",
+      "description": "Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt17048330",
+      "type": "movie",
+      "name": "Polar Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/aVSSuDNzgqHVCdAcSSAA1kdhrkK.jpg",
+      "description": "A new mother’s memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt17041964",
+      "type": "movie",
+      "name": "Navalny",
+      "poster": "https://image.tmdb.org/t/p/w500/9FXHNsqB4Wk9p42Yh0UtDflRY1f.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+      "description": "Follows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery, he makes shocking discoveries about the attempt on his life and decides to return home.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt18269838",
+      "type": "movie",
+      "name": "OLIVIA RODRIGO: driving home 2 u (a SOUR film)",
+      "poster": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
+      "description": "Grammy® winner singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt11178402",
+      "type": "movie",
+      "name": "Mickey: The Story of a Mouse",
+      "poster": "https://image.tmdb.org/t/p/w500/cYHE9FdgXBFUWvWaIKsDHODDOTS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sTQw7EpiMtyFOopwTLV7DjsNbOx.jpg",
+      "description": "Mickey Mouse is one of the most enduring symbols in our history. Those three simple circles take on meaning for virtually everyone on the planet. So ubiquitous in our lives that he can seem invisible, Mickey is something we all share, with unique memories and feelings. Over the course of his nearly century-long history, Mickey functions like a mirror, reflecting our personal and cultural values back at us. \"Mickey: The Story of a Mouse\" explores Mickey's significance, getting to the core of what Mickey's cultural impact says about each of us and about our world.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt16118722",
+      "type": "movie",
+      "name": "Tony Hawk: Until the Wheels Fall Off",
+      "poster": "https://image.tmdb.org/t/p/w500/namFh1FM7BkCkiljALtgMXOoANI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/bbosLXMWiM6FBvByi5rZ3SvSA5y.jpg",
+      "description": "A wide-ranging, definitive look at Hawk’s life and iconic career, and his relationship with the sport with which he’s been synonymous for decades, featuring unprecedented access, never-before-seen footage, and interviews with Hawk and prominent figures in the sport including Stacy Peralta, Rodney Mullen, Mike McGill, Lance Mountain, Steve Caballero, Neil Blender, Andy MacDonald, Duane Peters, Sean Mortimer, and Christian Hosoi.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt18059108",
+      "type": "movie",
+      "name": "Surviving Paradise: A Family Tale",
+      "poster": "https://image.tmdb.org/t/p/w500/c7cA49RgpTYgk7Db3XAzb8vExAD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/x8i57R0I8e4URRJ4MzK0YWSV48W.jpg",
+      "description": "In this wildlife drama, a worsening dry season in the Kalahari Desert leaves prides, packs and herds to rely on the power of family to survive.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt3031654",
+      "type": "movie",
+      "name": "Ennio",
+      "poster": "https://image.tmdb.org/t/p/w500/lEuLAubp74HYztEyNYpEx3AoqOu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+      "description": "A portrait of Ennio Morricone, the most popular and prolific film composer of the 20th century, the one most loved by the international public, a two-time Oscar winner and the author of over five hundred unforgettable scores.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3",
+      "genres": [
+        "Documentary",
+        "Music",
+        "History"
+      ]
+    },
+    {
+      "id": "tt15477324",
+      "type": "movie",
+      "name": "Marvel Studios Assembled: The Making of Eternals",
+      "poster": "https://image.tmdb.org/t/p/w500/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/imkqp2S4ZXEGczb59ciF6IYVwnW.jpg",
+      "description": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios’ most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14235904",
+      "type": "movie",
+      "name": "Marvel Studios Assembled: The Making of Hawkeye",
+      "poster": "https://image.tmdb.org/t/p/w500/pQOLNPHe4rwXl3RpKNa0VWjYNLR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/cOyxcD7YUZPriEhyCEbkJlY9kQg.jpg",
+      "description": "Join the likes of Jeremy Renner, Hailee Steinfeld, Florence Pugh, and Vincent D’Onofrio as they reveal how Marvel Studios’ “Hawkeye” was conceived and created. Witness firsthand what it took to pull off the show’s pulse-pounding action set pieces, and discover how iconic characters from the pages of Marvel Comics such as Kate Bishop were adapted and brought to life for the six-episode series.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt11893274",
+      "type": "movie",
+      "name": "Downfall: The Case Against Boeing",
+      "poster": "https://image.tmdb.org/t/p/w500/LRPi6b6gpDyKuveut38S8R38NI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5CUdP1wrg4S6yZrDHuW3JLohYLO.jpg",
+      "description": "Investigators reveal how Boeing’s alleged priority of profit over safety could have contributed to two catastrophic crashes within months of each other.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt16116174",
+      "type": "movie",
+      "name": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "poster": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+      "description": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt11937680",
+      "type": "movie",
+      "name": "The Velvet Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/sWGaJQDoJFbkshYdABhctrAtx7N.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qw0nzEPtZ3TVz3kEerwFsz0IX7e.jpg",
+      "description": "High up on the Tibetan plateau. Amongst unexplored and inaccessible valleys lies one of the last sanctuaries of the wild world, where rare and undiscovered fauna lives.  Vincent Munier, one of the world’s most renowned wildlife photographers takes the adventurer and novelist Sylvain Tesson (In the Forest of Siberia) with him on his latest mission. For several weeks, they’ll explore these valleys searching for unique animals and try to spot the snow leopard, one of the rarest and most difficult big cats to approach.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15820298",
+      "type": "movie",
+      "name": "Angèle",
+      "poster": "https://image.tmdb.org/t/p/w500/b9ldOOvwImdHfsDqZ4sIwRqcK2n.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/AdaR2NjYkK0pgyUdwPLYDJImPGl.jpg",
+      "description": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt15711284",
+      "type": "movie",
+      "name": "Adele One Night Only",
+      "poster": "https://image.tmdb.org/t/p/w500/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5WanYc1TXD0BxEgEXs3S4ervdoZ.jpg",
+      "description": "A primetime special with performances from the superstar including Adele’s first new material in six years plus her chart-topping hits. The special will also feature an exclusive interview with Adele by Oprah Winfrey from her rose garden, in Adele’s first televised wide-ranging conversation.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.8",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14079374",
+      "type": "movie",
+      "name": "14 Peaks: Nothing Is Impossible",
+      "poster": "https://image.tmdb.org/t/p/w500/8YS9oRn9rcAyBhYELFbGKk1TpFs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/lRCAcwJeh93YHO3ghFBDf0Pj3w3.jpg",
+      "description": "In 2019, Nepalese mountain climber Nirmal “Nims” Purja set out to do the unthinkable by climbing the world’s fourteen highest summits in less than seven months. (The previous record was eight years). He called the effort “Project Possible 14/7” and saw it as a way to inspire others to strive for greater heights in any pursuit. The film follows his team as they seek to defy naysayers and push the limits of human endurance.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14035242",
+      "type": "movie",
+      "name": "A Cop Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/hlq6tv7sFAA7LtNu7Rk8Fw6Kfu1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/uhTQG1X4dD0ItT4foUvaHvbhKhG.jpg",
+      "description": "This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt15520020",
+      "type": "movie",
+      "name": "Four Hours at the Capitol",
+      "poster": "https://image.tmdb.org/t/p/w500/2PZIEIAUdpsAorGyrbESnxoL0yA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wb6nDMtOojLN2I5cEHJFVDP0GQK.jpg",
+      "description": "The documentary is an immersive chronicle of the insurrection at the U.S. Capitol on January 6, 2021, when thousands of American citizens from across the country gathered in Washington D.C. to protest the results of the 2020 presidential election, many with the intent of disrupting the certification of Joe Biden's presidency.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt9098872",
+      "type": "movie",
+      "name": "The Rescue",
+      "poster": "https://image.tmdb.org/t/p/w500/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gOBKWe6lHlt8srk11TFlDuBtl0H.jpg",
+      "description": "The enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand.",
+      "releaseInfo": "2021",
+      "imdbRating": "8.0",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt15753666",
+      "type": "movie",
+      "name": "Puff: Wonders of the Reef",
+      "poster": "https://image.tmdb.org/t/p/w500/3jW7VXaI955lIfegDlB0F5OShbP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oQR4TXfmbOBdHGyOAaN3vXjeygJ.jpg",
+      "description": "A baby pufferfish travels through a wondrous microworld full of fantastical creatures as he searches for a home on the Great Barrier Reef.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15469820",
+      "type": "movie",
+      "name": "Britney vs. Spears",
+      "poster": "https://image.tmdb.org/t/p/w500/sd43f1ZDz8H8TDhcIbyKuUuJmIa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oBrHna3SHYVJrvGR4k6qG058vS2.jpg",
+      "description": "Journalist Jenny Eliscu and filmmaker Erin Lee Carr investigate Britney Spears' fight for freedom by way of exclusive interviews and confidential evidence.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt10322274",
+      "type": "movie",
+      "name": "Schumacher",
+      "poster": "https://image.tmdb.org/t/p/w500/ucNYfsbX1Z4tjMSr3waxsHMVjve.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
+      "description": "Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15094392",
+      "type": "movie",
+      "name": "Happier Than Ever: A Love Letter to Los Angeles",
+      "poster": "https://image.tmdb.org/t/p/w500/m0f9sDiwYlEtfhUWxc5F2ZW7wfq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5MrtK8lvWFaXD199ej5HuFal73W.jpg",
+      "description": "Fresh off the heels of her brand-new album, \"Happier Than Ever,\" this cinematic concert experience features an intimate performance of every song in the album's sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.8",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15101956",
+      "type": "movie",
+      "name": "Untold: Crime & Penalties",
+      "poster": "https://image.tmdb.org/t/p/w500/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qpcHqiiC1gidvT0AxBnJ9eQxbMV.jpg",
+      "description": "They were the bad boys of hockey — a team bought by a man with mob ties, run by his 17-year-old son, and with a rep for being as violent as they were good.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt15346636",
+      "type": "movie",
+      "name": "Being James Bond",
+      "poster": "https://image.tmdb.org/t/p/w500/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+      "description": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt11225756",
+      "type": "movie",
+      "name": "The Lost Leonardo",
+      "poster": "https://image.tmdb.org/t/p/w500/nVXECwOa4g5ZHND6dOxXjQ5bbpT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oKHWB7SSs8jG7HeJHooMFNhbi6f.jpg",
+      "description": "London, England, 2008. Some of the most distinguished experts on the work of Italian artist Leonardo da Vinci (1452-1519) gather at the National Gallery to examine a painting known as Salvator Mundi; an event that turns out to be the first act of one of the most fascinating stories in the history of art.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt8399720",
+      "type": "movie",
+      "name": "TINA",
+      "poster": "https://image.tmdb.org/t/p/w500/swU4ohKgD5sSGpQkRF6VbKT0Os0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wuEiqcDu4Y0kQO6nXGVarKJGLtG.jpg",
+      "description": "Tina Turner overcame impossible odds to become one of the first female Black artists to reach a mainstream international audience. Her road to superstardom is an undeniable story of triumph over adversity. It’s the ultimate story of survival – and an inspirational story of our times.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt15085802",
+      "type": "movie",
+      "name": "Untold: Malice at the Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/bjvxSGfghSNTgfVDf3nQ4sJCVJX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/94DkCX8jbVeJuC98oCGeJufn9P7.jpg",
+      "description": "Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout, and its lasting legacy.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt15036416",
+      "type": "movie",
+      "name": "Shiny_Flakes: The Teenage Drug Lord",
+      "poster": "https://image.tmdb.org/t/p/w500/l3MsAxSnHo94ZAPT8zftsXO8y9X.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/z1UxwFCSCepPRosjOBVllfrs0PB.jpg",
+      "description": "Max S. reveals how he built a drug empire from his childhood bedroom in this story that inspired the series \"How to Sell Drugs Online.\"",
+      "releaseInfo": "2021",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt8801666",
+      "type": "movie",
+      "name": "The Most Beautiful Boy in the World",
+      "poster": "https://image.tmdb.org/t/p/w500/hNlnSwj34gemONfbBxaG8Trd1vR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/pOCS7XWZ2gD53EaEiLU2br1DK4h.jpg",
+      "description": "In 1971, due to the world premiere of Death in Venice, Italian director Lucino Visconti proclaimed his Tadzio as the world’s most beautiful boy. A shadow that today, 50 years later, weighs Björn Andrésen’s life.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14731254",
+      "type": "movie",
+      "name": "Val",
+      "poster": "https://image.tmdb.org/t/p/w500/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
+      "description": "For over 40 years Val Kilmer, one of Hollywood’s most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of footage, from 16mm home movies made with his brothers, to time spent in iconic roles for blockbuster movies like Top Gun, The Doors, Tombstone, and Batman Forever. This raw, wildly original and unflinching documentary reveals a life lived to extremes and a heart-filled, sometimes hilarious look at what it means to be an artist and a complex man.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt7378922",
+      "type": "movie",
+      "name": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "poster": "https://image.tmdb.org/t/p/w500/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
+      "description": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost — until now.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.6",
+      "genres": [
+        "Music",
+        "Documentary",
+        "History"
+      ]
+    },
+    {
+      "id": "tt8610436",
+      "type": "movie",
+      "name": "The Sparks Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8elBDylFThvAsuwYdBAsCQC9l0Z.jpg",
+      "description": "Take a musical odyssey through five weird and wonderful decades with brothers Ron & Russell Mael, celebrating the inspiring legacy of Sparks: your favorite band’s favorite band.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.3",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt8430054",
+      "type": "movie",
+      "name": "Flee",
+      "poster": "https://image.tmdb.org/t/p/w500/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+      "description": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Animation"
+      ]
+    },
+    {
+      "id": "tt14539726",
+      "type": "movie",
+      "name": "Breaking Boundaries: The Science of Our Planet",
+      "poster": "https://image.tmdb.org/t/p/w500/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/mfdoMIFWnVkzaLqVDWU2DH6EIwT.jpg",
+      "description": "David Attenborough and scientist Johan Rockström examine Earth's biodiversity collapse and how this crisis can still be averted.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt11337862",
+      "type": "movie",
+      "name": "Friends: The Reunion",
+      "poster": "https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qPlAgjG4xy7utjf5L14FZ8kaiWl.jpg",
+      "description": "The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.8",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt14264844",
+      "type": "movie",
+      "name": "P!nk: All I Know So Far",
+      "poster": "https://image.tmdb.org/t/p/w500/vtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5xfyi92J0MRttID4vFTPK3OmhgH.jpg",
+      "description": "A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019's \"Beautiful Trauma\" world tour.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    }
+  ]
+}
