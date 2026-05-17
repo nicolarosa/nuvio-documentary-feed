@@ -649,7 +649,7 @@
       "background": "https://image.tmdb.org/t/p/original/Amb16QpgV4ZxdU8C80SW6JNySp9.jpg",
       "description": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
       "releaseInfo": "2024",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "genres": [
         "Documentary",
         "Music"
@@ -750,7 +750,7 @@
       "background": "https://image.tmdb.org/t/p/original/2pBDP2Ip5mQemw3PYTjDLYv9XI9.jpg",
       "description": "A courageous pastor uses his underground network to rescue and aid North Korean families as they risk their lives to embrace freedom.",
       "releaseInfo": "2023",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary",
         "History"
@@ -909,7 +909,7 @@
       "background": "https://image.tmdb.org/t/p/original/3OYdLI1I8lZKkzu3AgEm3iHyvip.jpg",
       "description": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham! career, from 70s best buds to 80s pop icons.",
       "releaseInfo": "2023",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "genres": [
         "Documentary",
         "Music"
@@ -970,6 +970,21 @@
       "imdbRating": "7.1",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt27548083",
+      "type": "movie",
+      "name": "Poisoned: The Dirty Truth About Your Food",
+      "poster": "https://image.tmdb.org/t/p/w500/2s6Pe9l2NJMFDiscCIx7DwjDJMT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/gkwcpxZSpgijtHl1C2PXLjYVzSl.jpg",
+      "description": "Through revealing interviews with experts and victims' families, this gripping documentary examines the problem of deadly foodborne illness in the US.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Crime"
       ]
     },
     {
@@ -1268,7 +1283,7 @@
       "background": "https://image.tmdb.org/t/p/original/6Bgd7xihK37b98ERPTvLOqQO1eu.jpg",
       "description": "Does infinity exist? Can we experience the Infinite? In an animated film (created by artists from 10 countries) the world's most cutting-edge scientists and mathematicians go in search of the infinite and its mind-bending implications for the universe.  Eminent mathematicians, particle physicists and cosmologists dive into infinity and its mind-bending implications for the universe.",
       "releaseInfo": "2022",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary"
       ]
@@ -1415,7 +1430,7 @@
       "background": "https://image.tmdb.org/t/p/original/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
       "description": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
       "releaseInfo": "2022",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "genres": [
         "Documentary"
       ]
@@ -1515,7 +1530,7 @@
       "background": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
       "description": "Grammy® winner singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”",
       "releaseInfo": "2022",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "genres": [
         "Music",
         "Documentary"
