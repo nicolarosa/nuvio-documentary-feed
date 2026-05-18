@@ -39,7 +39,7 @@
       "background": "https://image.tmdb.org/t/p/original/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
       "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "genres": [
         "Documentary"
       ]
@@ -124,7 +124,7 @@
       "background": "https://image.tmdb.org/t/p/original/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
       "description": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
       "releaseInfo": "2025",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "genres": [
         "Documentary"
       ]
@@ -396,10 +396,10 @@
       "name": "The Apocalypse of St John",
       "poster": "https://image.tmdb.org/t/p/w500/zzXU586n4uDBgMtVMPPQW7UJwu8.jpg",
       "posterShape": "poster",
-      "background": null,
+      "background": "https://image.tmdb.org/t/p/original/tB8OHsOKgvdptClsU7nqUsMeqFD.jpg",
       "description": "Embark on an epic journey through time and faith with 'The Apocalypse of Saint John.' Join the Apostle John in a stunning visual narrative that unravels the visions of the End Times. Experience each vision like never before, with striking visual effects and epic scenes that immerse you in the apocalyptic narrative.",
       "releaseInfo": "2024",
-      "imdbRating": "8.4",
+      "imdbRating": "8.3",
       "genres": [
         "Documentary",
         "History"
@@ -649,7 +649,7 @@
       "background": "https://image.tmdb.org/t/p/original/Amb16QpgV4ZxdU8C80SW6JNySp9.jpg",
       "description": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
       "releaseInfo": "2024",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "genres": [
         "Documentary",
         "Music"
@@ -706,7 +706,7 @@
       "background": "https://image.tmdb.org/t/p/original/kkyn5vyMqkgCp944QeBumJ6aktP.jpg",
       "description": "Forty years after the release of Michael Jackson’s ‘Thriller,’ the best-selling album of all-time, director Nelson George takes fans back in time to the making of a pop masterpiece, featuring never-before-seen footage and candid interviews.",
       "releaseInfo": "2023",
-      "imdbRating": "8.5",
+      "imdbRating": "8.6",
       "genres": [
         "Documentary",
         "Music"
@@ -1334,6 +1334,20 @@
       ]
     },
     {
+      "id": "tt21448508",
+      "type": "movie",
+      "name": "Untold: Operation Flagrant Foul",
+      "poster": "https://image.tmdb.org/t/p/w500/pArr12pr825SWb06ihiWesJsuR0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/maZ8F3fvi8moX5p8fJ1eXDq9Dj4.jpg",
+      "description": "Years after serving time for betting on games he officiated, former NBA referee Tim Donaghy revisits the scandal that shook up the league.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt21388560",
       "type": "movie",
       "name": "Untold: The Rise and Fall of AND1",
@@ -1475,21 +1489,6 @@
       "imdbRating": "7.1",
       "genres": [
         "Documentary"
-      ]
-    },
-    {
-      "id": "tt19768508",
-      "type": "movie",
-      "name": "Cyber Hell: Exposing an Internet Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/okUGREWC4LN2TSjFX0AOiNJhzdN.jpg",
-      "description": "Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.2",
-      "genres": [
-        "Documentary",
-        "Crime"
       ]
     },
     {
