@@ -2000,21 +2000,6 @@
       "genres": [
         "Documentary"
       ]
-    },
-    {
-      "id": "tt14264844",
-      "type": "movie",
-      "name": "P!nk: All I Know So Far",
-      "poster": "https://image.tmdb.org/t/p/w500/vtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/5xfyi92J0MRttID4vFTPK3OmhgH.jpg",
-      "description": "A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019's \"Beautiful Trauma\" world tour.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.7",
-      "genres": [
-        "Documentary",
-        "Music"
-      ]
     }
   ]
 }
