@@ -368,7 +368,7 @@
       "background": "https://image.tmdb.org/t/p/original/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
       "description": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
       "releaseInfo": "2024",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "genres": [
         "Animation",
         "Music",
@@ -1690,7 +1690,8 @@
       "imdbRating": "7.8",
       "genres": [
         "Music",
-        "Documentary"
+        "Documentary",
+        "TV Movie"
       ]
     },
     {
