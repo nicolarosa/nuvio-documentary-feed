@@ -110,7 +110,7 @@
       "background": "https://image.tmdb.org/t/p/original/6CdrnONBaZsmoEMTn0A4S2Nj4t5.jpg",
       "description": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
       "releaseInfo": "2025",
-      "imdbRating": "7.6",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary"
       ]
@@ -1517,6 +1517,21 @@
       "imdbRating": "7.2",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt17048366",
+      "type": "movie",
+      "name": "Explorer: The Last Tepui",
+      "poster": "https://image.tmdb.org/t/p/w500/u3csCMawDUyB6DZKI4q3j8m6vjG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/lDHukrDiNiNZM7GUCaQnFBrKKNf.jpg",
+      "description": "This documentary starring climber Alex Honnold and famous biologist Bruce Means document their expedition to the South American sky islands in search of new species and discoveries. Follows elite climber Alex Honnold and a world-class climbing team led by National Geographic Explorer and climber Mark Synnott on a grueling mission deep in the Amazon jungle as they attempt a first-ascent climb up a 1000 foot sheer cliff.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary",
+        "Adventure"
       ]
     },
     {
