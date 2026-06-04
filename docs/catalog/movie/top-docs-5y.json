@@ -1987,20 +1987,6 @@
         "Documentary",
         "Animation"
       ]
-    },
-    {
-      "id": "tt14539726",
-      "type": "movie",
-      "name": "Breaking Boundaries: The Science of Our Planet",
-      "poster": "https://image.tmdb.org/t/p/w500/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/mfdoMIFWnVkzaLqVDWU2DH6EIwT.jpg",
-      "description": "David Attenborough and scientist Johan Rockström examine Earth's biodiversity collapse and how this crisis can still be averted.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.5",
-      "genres": [
-        "Documentary"
-      ]
     }
   ]
 }
