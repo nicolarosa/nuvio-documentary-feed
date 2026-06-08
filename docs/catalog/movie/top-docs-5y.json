@@ -210,7 +210,7 @@
       "background": "https://image.tmdb.org/t/p/original/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
       "description": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
       "releaseInfo": "2025",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "genres": [
         "Documentary"
       ]
@@ -657,11 +657,11 @@
     {
       "id": "tt30394627",
       "type": "movie",
-      "name": "Muchachos, la película de la gente",
+      "name": "Muchachos",
       "poster": "https://image.tmdb.org/t/p/w500/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
-      "description": "The celebrations for the title of the Argentine National Team in the World Cup in Qatar 2022, through videos of Argentines around the world and unpublished material of the party in the streets.",
+      "description": "Using home videos from fans from across the globe and never-before-seen drone footage obtained during the victory parade in Buenos Aires, on streets dyed white and sky blue. The film invites viewers to immerse themselves in the world's most football obsessed nation, Argentina, to relive the emotional rollercoaster that was the country’s 2022 World Cup victory in Qatar and the record breaking celebrations that followed.",
       "releaseInfo": "2023",
       "imdbRating": "8.3",
       "genres": [
@@ -1333,6 +1333,20 @@
       ]
     },
     {
+      "id": "tt11898888",
+      "type": "movie",
+      "name": "The Secret of Dr. Grinberg",
+      "poster": "https://image.tmdb.org/t/p/w500/keDQeTQtqIku2iK5ijV4J10QL4m.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6O3GkT7AEJzwIPQCdOtQupymMjG.jpg",
+      "description": "In the early nineties, Dr. Jacobo Grinberg’s career was blooming and he gained lots of international credit as a researcher in the fields of telepathy and neurophysiology at the Universidad Nacional Autonoma de Mexico. When Dr. Grinberg mysteriously disappears in 1994, the police find no trace of him. The only thing that is clear, is that all his research material, including his computers, disappeared along with him.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.7",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt21448508",
       "type": "movie",
       "name": "Untold: Operation Flagrant Foul",
@@ -1355,7 +1369,7 @@
       "background": "https://image.tmdb.org/t/p/original/xk3hEhpwFWr6UaxS0BORDGgyj3t.jpg",
       "description": "Inspired by New York City streetball, influential brand AND1 turned local legends on the court into international icons. So why did it come to an end?",
       "releaseInfo": "2022",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "genres": [
         "Documentary"
       ]
