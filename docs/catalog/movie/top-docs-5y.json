@@ -635,7 +635,7 @@
       "background": "https://image.tmdb.org/t/p/original/kBmwtsPTG0P79oyoTBhaKfCxvSl.jpg",
       "description": "Stars of \"The Walking Dead,\" Andrew Lincoln and Danai Gurira, walk down memory lane and visit iconic locations where pivotal moments between their characters, Rick and Michonne, were filmed.",
       "releaseInfo": "2024",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "genres": [
         "Documentary"
       ]
@@ -2000,21 +2000,6 @@
       "genres": [
         "Documentary",
         "Music"
-      ]
-    },
-    {
-      "id": "tt8430054",
-      "type": "movie",
-      "name": "Flee",
-      "poster": "https://image.tmdb.org/t/p/w500/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
-      "description": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.8",
-      "genres": [
-        "Documentary",
-        "Animation"
       ]
     }
   ]
