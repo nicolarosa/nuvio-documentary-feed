@@ -444,8 +444,7 @@
       "releaseInfo": "2024",
       "imdbRating": "7.3",
       "genres": [
-        "Documentary",
-        "TV Movie"
+        "Documentary"
       ]
     },
     {
@@ -1985,21 +1984,6 @@
         "Music",
         "Documentary",
         "History"
-      ]
-    },
-    {
-      "id": "tt8610436",
-      "type": "movie",
-      "name": "The Sparks Brothers",
-      "poster": "https://image.tmdb.org/t/p/w500/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/8elBDylFThvAsuwYdBAsCQC9l0Z.jpg",
-      "description": "Take a musical odyssey through five weird and wonderful decades with brothers Ron & Russell Mael, celebrating the inspiring legacy of Sparks: your favorite band’s favorite band.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.3",
-      "genres": [
-        "Documentary",
-        "Music"
       ]
     }
   ]
