@@ -1,6 +1,21 @@
 {
   "metas": [
     {
+      "id": "tt42863533",
+      "type": "movie",
+      "name": "Maternal Instinct",
+      "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt39389429",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
@@ -97,7 +112,7 @@
       "background": "https://image.tmdb.org/t/p/original/aUoZx5eljCac6fhKK4dafIvTYDY.jpg",
       "description": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
       "releaseInfo": "2025",
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "genres": [
         "Documentary"
       ]
@@ -171,6 +186,21 @@
       "genres": [
         "Documentary",
         "Music"
+      ]
+    },
+    {
+      "id": "tt34964205",
+      "type": "movie",
+      "name": "2000 Meters to Andriivka",
+      "poster": "https://image.tmdb.org/t/p/w500/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/yZKLgaHKmJCrMsg5e1naV4JqY6b.jpg",
+      "description": "Amid the failing counteroffensive, a journalist follows a Ukrainian platoon on their mission to traverse one mile of heavily fortified forest and liberate a strategic village from Russian occupation. But the farther they advance through their destroyed homeland, the more they realize that this war may never end.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "genres": [
+        "Documentary",
+        "War"
       ]
     },
     {
