@@ -9,7 +9,7 @@
       "background": "https://image.tmdb.org/t/p/original/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "genres": [
         "Documentary",
         "Crime"
@@ -146,6 +146,20 @@
       ]
     },
     {
+      "id": "tt35922832",
+      "type": "movie",
+      "name": "Ozzy: No Escape from Now",
+      "poster": "https://image.tmdb.org/t/p/w500/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg",
+      "description": "Ozzy Osbourne faces his identity and mortality after his world stops. Dealing with health issues and Parkinson's, he questions if he can perform again while music remains his life's cornerstone.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.4",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt26683420",
       "type": "movie",
       "name": "John Candy: I Like Me",
@@ -213,6 +227,20 @@
       "description": "Through deep examination, this documentary from Oscar nominee Petra Costa explores the profound impact of evangelism on Brazil's political landscape.",
       "releaseInfo": "2025",
       "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt36464353",
+      "type": "movie",
+      "name": "My Mom Jayne",
+      "poster": "https://image.tmdb.org/t/p/w500/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/k4MZdogt1DZX0b2tlkr17EFUvP5.jpg",
+      "description": "Through deeply personal interviews with her siblings and an examination of the photographs, letters, and belongings left behind, Mariska assembles a new portrait of her mother Jayne Mansfield, an extraordinary and complex woman.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.0",
       "genres": [
         "Documentary"
       ]
@@ -523,20 +551,6 @@
       ]
     },
     {
-      "id": "tt30319854",
-      "type": "movie",
-      "name": "Sugarcane",
-      "poster": "https://image.tmdb.org/t/p/w500/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/xoguYBNxXhyiQasTZyIxaYMjcUq.jpg",
-      "description": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.0",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
       "id": "tt30319830",
       "type": "movie",
       "name": "Skywalkers: A Love Story",
@@ -721,7 +735,7 @@
       "background": "https://image.tmdb.org/t/p/original/wDSleqaukgwU8kILLrpP4Kf60eV.jpg",
       "description": "It narrates the epic title obtained by the Argentine National Team in the World Cup Qatar 2022 with testimonies of the protagonists, told from the intimacy and in first person.",
       "releaseInfo": "2023",
-      "imdbRating": "7.6",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary"
       ]
@@ -749,7 +763,7 @@
       "background": "https://image.tmdb.org/t/p/original/pVyI0faJI6jYIlVxUqhZ1AgBOOC.jpg",
       "description": "Forty years after the release of Michael Jackson’s ‘Thriller,’ the best-selling album of all-time, director Nelson George takes fans back in time to the making of a pop masterpiece, featuring never-before-seen footage and candid interviews.",
       "releaseInfo": "2023",
-      "imdbRating": "8.6",
+      "imdbRating": "8.7",
       "genres": [
         "Documentary",
         "Music"
