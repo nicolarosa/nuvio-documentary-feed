@@ -118,6 +118,22 @@
       ]
     },
     {
+      "id": "tt38673135",
+      "type": "movie",
+      "name": "Taylor Swift | The Eras Tour | The Final Show",
+      "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+      "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "genres": [
+        "Music",
+        "Documentary",
+        "TV Movie"
+      ]
+    },
+    {
       "id": "tt32888451",
       "type": "movie",
       "name": "Attitudini: Nessuna",
@@ -792,7 +808,7 @@
       "background": "https://image.tmdb.org/t/p/original/pNXsM122xlQ1ocp3trfoDFSUvJN.jpg",
       "description": "Based on real near-death experiences, the afterlife is explored with the guidance of New York Times bestselling authors, medical experts, scientists and survivors who shed a light on what awaits us.",
       "releaseInfo": "2023",
-      "imdbRating": "7.0",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary",
         "Drama"
@@ -2011,22 +2027,6 @@
       "imdbRating": "7.2",
       "genres": [
         "Documentary"
-      ]
-    },
-    {
-      "id": "tt7378922",
-      "type": "movie",
-      "name": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-      "poster": "https://image.tmdb.org/t/p/w500/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
-      "description": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost — until now.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.6",
-      "genres": [
-        "Music",
-        "Documentary",
-        "History"
       ]
     }
   ]
