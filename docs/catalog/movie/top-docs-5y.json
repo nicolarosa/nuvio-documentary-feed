@@ -126,7 +126,7 @@
       "background": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
       "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
       "releaseInfo": "2025",
-      "imdbRating": "7.9",
+      "imdbRating": "8.0",
       "genres": [
         "Music",
         "Documentary",
@@ -570,16 +570,14 @@
       "id": "tt30319830",
       "type": "movie",
       "name": "Skywalkers: A Love Story",
-      "poster": "https://image.tmdb.org/t/p/w500/kD23EdSc8DnZVos4woQps0a7rJ7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/33w8SfE5VsXfj7QnqBb3R3mSdFE.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/original/3CwKraydx0pon9wRrysJXmDMVJT.jpg",
       "description": "Two real-life daredevils test the limits of their love and trust by illegally scaling one of the world's tallest buildings to perform an acrobatic stunt.",
       "releaseInfo": "2024",
       "imdbRating": "7.3",
       "genres": [
-        "Documentary",
-        "Romance",
-        "Thriller"
+        "Documentary"
       ]
     },
     {
@@ -827,6 +825,21 @@
       "genres": [
         "Documentary",
         "History"
+      ]
+    },
+    {
+      "id": "tt29274601",
+      "type": "movie",
+      "name": "Vjeran Tomic: The Spider-Man of Paris",
+      "poster": "https://image.tmdb.org/t/p/w500/sv0Pzq9Kdv3NBZNdKnEu9xOdcT4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8YTbDLjcIpCvBjiUa1yYFFUhwGX.jpg",
+      "description": "In his own words, the burglar behind the 2010 robbery of the Paris Museum of Modern Art tells how he pulled off the biggest art heist in French history.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary",
+        "Crime"
       ]
     },
     {
