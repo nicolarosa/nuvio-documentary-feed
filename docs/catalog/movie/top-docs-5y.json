@@ -4,7 +4,7 @@
       "id": "tt42863533",
       "type": "movie",
       "name": "Maternal Instinct",
-      "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/original/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
@@ -54,7 +54,7 @@
       "background": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
       "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "genres": [
         "Music",
         "Documentary"
@@ -575,7 +575,7 @@
       "background": "https://image.tmdb.org/t/p/original/3CwKraydx0pon9wRrysJXmDMVJT.jpg",
       "description": "Two real-life daredevils test the limits of their love and trust by illegally scaling one of the world's tallest buildings to perform an acrobatic stunt.",
       "releaseInfo": "2024",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "genres": [
         "Documentary"
       ]
@@ -984,6 +984,20 @@
       "genres": [
         "Documentary",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt27837387",
+      "type": "movie",
+      "name": "Unknown: The Lost Pyramid",
+      "poster": "https://image.tmdb.org/t/p/w500/5KV7WxGjF5O5fhBJnjNME4jkJC7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/ww3OoIaQxRO4o78YJdVlmKIsikm.jpg",
+      "description": "Egyptian archaeologists dig into history, discovering tombs and artifacts over 4,000 years old as they search for a buried pyramid in this documentary.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4",
+      "genres": [
+        "Documentary"
       ]
     },
     {
