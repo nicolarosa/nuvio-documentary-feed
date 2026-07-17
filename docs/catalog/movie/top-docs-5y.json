@@ -39,7 +39,7 @@
       "background": "https://image.tmdb.org/t/p/original/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
       "description": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.9",
       "genres": [
         "Music",
         "Documentary"
@@ -112,7 +112,7 @@
       "background": "https://image.tmdb.org/t/p/original/aUoZx5eljCac6fhKK4dafIvTYDY.jpg",
       "description": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
       "releaseInfo": "2025",
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "genres": [
         "Documentary"
       ]
@@ -385,7 +385,7 @@
       "background": "https://image.tmdb.org/t/p/original/z0v2QdZq4I61xt8mBlxKRyoOGqm.jpg",
       "description": "After a plane crash, four indigenous children fight to survive in the Colombian Amazon using ancestral wisdom as an unprecedented rescue mission unfolds.",
       "releaseInfo": "2024",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "genres": [
         "Documentary"
       ]
@@ -604,7 +604,7 @@
       "background": "https://image.tmdb.org/t/p/original/1iroQlJdPccnoUi4PGsIRFWPLBV.jpg",
       "description": "A raw and honest behind-the-scenes look at the iconic superstar's struggle with a life-altering illness. Serving as a love letter to her fans, this inspirational documentary highlights the music that has guided her life while also showcasing the resilience of the human spirit.",
       "releaseInfo": "2024",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "genres": [
         "Documentary",
         "Music"
@@ -657,9 +657,9 @@
       "id": "tt31852716",
       "type": "movie",
       "name": "Apollo 13: Survival",
-      "poster": "https://image.tmdb.org/t/p/w500/9tuK9kKSB2L6rMVlNOjwiWQaWxh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aPptrxudR2JEJd6rr4Bv4zO5d0Z.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/gRLrlofwDuICqGIEXYkoElDe4Y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7X44gEuKbfNCWYMC9MBmAinuVeZ.jpg",
       "description": "Using original footage and interviews, this documentary tells the nail-biting story of Apollo 13 and the struggle to bring its astronauts safely home.",
       "releaseInfo": "2024",
       "imdbRating": "7.1",
@@ -732,7 +732,7 @@
       "name": "Muchachos",
       "poster": "https://image.tmdb.org/t/p/w500/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h2ryPiav64BGqDaRUYsMYO8tOSg.jpg",
       "description": "Using home videos from fans from across the globe and never-before-seen drone footage obtained during the victory parade in Buenos Aires, on streets dyed white and sky blue. The film invites viewers to immerse themselves in the world's most football obsessed nation, Argentina, to relive the emotional rollercoaster that was the country’s 2022 World Cup victory in Qatar and the record breaking celebrations that followed.",
       "releaseInfo": "2023",
       "imdbRating": "8.3",
@@ -936,7 +936,7 @@
       "background": "https://image.tmdb.org/t/p/original/6inQZW13AWeSPPPSrKqVJZNfjiI.jpg",
       "description": "Scientists examine underground clues from over 250,000 years ago that raise questions about our early relatives — and what it truly means to be human.",
       "releaseInfo": "2023",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary"
       ]
@@ -1925,6 +1925,20 @@
       ]
     },
     {
+      "id": "tt15101938",
+      "type": "movie",
+      "name": "Untold: Breaking Point",
+      "poster": "https://image.tmdb.org/t/p/w500/a8VCNVOYDgXFR7kZ9xz63uEcczg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/k2JlxDZ9y5IgOKVQoFciGcWKClM.jpg",
+      "description": "Under pressure to continue a winning tradition in American tennis, Mardy Fish faced mental health challenges that changed his life on and off the court.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.6",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt15094392",
       "type": "movie",
       "name": "Happier Than Ever: A Love Letter to Los Angeles",
@@ -1948,7 +1962,7 @@
       "background": "https://image.tmdb.org/t/p/original/qpcHqiiC1gidvT0AxBnJ9eQxbMV.jpg",
       "description": "They were the bad boys of hockey — a team bought by a man with mob ties, run by his 17-year-old son, and with a rep for being as violent as they were good.",
       "releaseInfo": "2021",
-      "imdbRating": "7.0",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary",
         "Crime"
