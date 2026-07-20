@@ -46,6 +46,20 @@
       ]
     },
     {
+      "id": "tt35237771",
+      "type": "movie",
+      "name": "Ghost Elephants",
+      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
+      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt35003538",
       "type": "movie",
       "name": "EPiC: Elvis Presley in Concert",
@@ -54,7 +68,7 @@
       "background": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
       "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.3",
       "genres": [
         "Music",
         "Documentary"
@@ -662,7 +676,7 @@
       "background": "https://image.tmdb.org/t/p/original/7X44gEuKbfNCWYMC9MBmAinuVeZ.jpg",
       "description": "Using original footage and interviews, this documentary tells the nail-biting story of Apollo 13 and the struggle to bring its astronauts safely home.",
       "releaseInfo": "2024",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary",
         "History"
