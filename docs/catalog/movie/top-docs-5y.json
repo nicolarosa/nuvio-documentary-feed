@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt43595399",
+      "type": "movie",
+      "name": "Shipwrecked: Nightmare at Sea",
+      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+      "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt42863533",
       "type": "movie",
       "name": "Maternal Instinct",
@@ -735,7 +749,7 @@
       "background": "https://image.tmdb.org/t/p/original/fh022Zgyoq1UzxshTObNLjQ2JoC.jpg",
       "description": "An in-depth look at the creative process behind \"Society of the Snow,\" featuring cast, crew, director J.A. Bayona and even real-life survivors.",
       "releaseInfo": "2024",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "genres": [
         "Documentary"
       ]
@@ -1826,7 +1840,7 @@
       "name": "Adele One Night Only",
       "poster": "https://image.tmdb.org/t/p/w500/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/5WanYc1TXD0BxEgEXs3S4ervdoZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/k8zYEW2jAgWR4PcbH7SSIOSUi6w.jpg",
       "description": "A primetime special with performances from the superstar including Adele’s first new material in six years plus her chart-topping hits. The special will also feature an exclusive interview with Adele by Oprah Winfrey from her rose garden, in Adele’s first televised wide-ranging conversation.",
       "releaseInfo": "2021",
       "imdbRating": "7.8",
@@ -1991,7 +2005,7 @@
       "background": "https://image.tmdb.org/t/p/original/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
       "description": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
       "releaseInfo": "2021",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary"
       ]
@@ -2066,20 +2080,6 @@
       "description": "In 1971, due to the world premiere of Death in Venice, Italian director Lucino Visconti proclaimed his Tadzio as the world’s most beautiful boy. A shadow that today, 50 years later, weighs Björn Andrésen’s life.",
       "releaseInfo": "2021",
       "imdbRating": "7.4",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
-      "id": "tt14731254",
-      "type": "movie",
-      "name": "Val",
-      "poster": "https://image.tmdb.org/t/p/w500/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
-      "description": "For over 40 years Val Kilmer, one of Hollywood’s most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of footage, from 16mm home movies made with his brothers, to time spent in iconic roles for blockbuster movies like Top Gun, The Doors, Tombstone, and Batman Forever. This raw, wildly original and unflinching documentary reveals a life lived to extremes and a heart-filled, sometimes hilarious look at what it means to be an artist and a complex man.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2",
       "genres": [
         "Documentary"
       ]
