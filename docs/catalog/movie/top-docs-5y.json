@@ -38,7 +38,7 @@
       "background": "https://image.tmdb.org/t/p/original/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
       "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.7",
       "genres": [
         "Documentary",
         "Music"
@@ -98,6 +98,21 @@
       "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "releaseInfo": "2026",
       "imdbRating": "8.3",
+      "genres": [
+        "Music",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt39216314",
+      "type": "movie",
+      "name": "Stray Kids: The dominATE Experience",
+      "poster": "https://image.tmdb.org/t/p/w500/8pi8IZ2lqJB0k0XKgh2b89OYqYd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sEcWQzk7uTBNMrWnMGD6hfDmrEo.jpg",
+      "description": "Featuring the global K-Pop sensation Stray Kids and a live performance from their record-breaking world tour, alongside exclusive behind-the-scenes footage and intimate interviews with the band, Stray Kids: The dominATE Experience is an epic concert film that gives fans both a spectacular front-row seat and unique access to their favourite band.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1",
       "genres": [
         "Music",
         "Documentary"
@@ -337,7 +352,7 @@
       "id": "tt34965515",
       "type": "movie",
       "name": "Mr. Nobody Against Putin",
-      "poster": "https://image.tmdb.org/t/p/w500/aXCEnrqecvPXohuptN0JRgIvkDj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/original/3A0dDfZq5WxdDGt8qzmhFXqVZxJ.jpg",
       "description": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
