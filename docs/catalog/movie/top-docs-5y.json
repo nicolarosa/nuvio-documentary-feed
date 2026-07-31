@@ -1174,6 +1174,20 @@
       ]
     },
     {
+      "id": "tt23640230",
+      "type": "movie",
+      "name": "Smoke Sauna Sisterhood",
+      "poster": "https://image.tmdb.org/t/p/w500/uUs4e9S0Z5VaVgZH25wnEzKC5ty.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/aTZSKUTk76AixSdClXUb2qC8ZEV.jpg",
+      "description": "Women share their innermost secrets and intimate experiences inside an Estonian smoke sauna. Cleansing their bodies and baring their souls, they embrace the healing power of sisterhood.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt24807190",
       "type": "movie",
       "name": "BTS: Yet to Come in Cinemas",
@@ -1239,7 +1253,7 @@
       "background": "https://image.tmdb.org/t/p/original/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
       "description": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
       "releaseInfo": "2022",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "genres": [
         "Documentary"
       ]
@@ -2083,20 +2097,6 @@
       "genres": [
         "Documentary",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt8801666",
-      "type": "movie",
-      "name": "The Most Beautiful Boy in the World",
-      "poster": "https://image.tmdb.org/t/p/w500/hNlnSwj34gemONfbBxaG8Trd1vR.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/pOCS7XWZ2gD53EaEiLU2br1DK4h.jpg",
-      "description": "In 1971, due to the world premiere of Death in Venice, Italian director Lucino Visconti proclaimed his Tadzio as the world’s most beautiful boy. A shadow that today, 50 years later, weighs Björn Andrésen’s life.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.4",
-      "genres": [
-        "Documentary"
       ]
     }
   ]
