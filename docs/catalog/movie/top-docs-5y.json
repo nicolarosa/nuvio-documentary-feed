@@ -18,7 +18,7 @@
       "id": "tt42863533",
       "type": "movie",
       "name": "Maternal Instinct",
-      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/original/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
@@ -141,7 +141,7 @@
       "background": "https://image.tmdb.org/t/p/original/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
       "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "genres": [
         "Documentary",
         "Crime"
@@ -187,8 +187,7 @@
       "imdbRating": "8.0",
       "genres": [
         "Music",
-        "Documentary",
-        "TV Movie"
+        "Documentary"
       ]
     },
     {
