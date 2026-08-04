@@ -9,7 +9,7 @@
       "background": "https://image.tmdb.org/t/p/original/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
       "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "genres": [
         "Documentary"
       ]
@@ -708,6 +708,22 @@
       "imdbRating": "7.9",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt31510396",
+      "type": "movie",
+      "name": "The Bloody Hundredth",
+      "poster": "https://image.tmdb.org/t/p/w500/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
+      "description": "Meet the real-life airmen who inspired Masters of the Air as they share the harrowing and transformative events of the 100th Bomb Group.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.2",
+      "genres": [
+        "War",
+        "Documentary",
+        "History"
       ]
     },
     {
