@@ -269,7 +269,7 @@
       "background": "https://image.tmdb.org/t/p/original/cY6IXwtmc8xdznDlw2eegB8OGx1.jpg",
       "description": "A revealing, edgy, and disarmingly personal journey into the world of superfandom, told through the lens of one of the world's most iconic and enduring artists, Eminem, and the fans that worship him.",
       "releaseInfo": "2025",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary",
         "Music"
@@ -643,7 +643,7 @@
       "name": "Rite Here Rite Now",
       "poster": "https://image.tmdb.org/t/p/w500/w3xJNhW5ZYuK3BySbsJiGDmKEiV.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/3e8IhctkdEXfBxxC9ms2eWEjjCE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jUAWVC1tYjLIs9vd6Bx2Q6a7JeI.jpg",
       "description": "Whether you’re a devoted disciple looking to relive treasured memories of the GHOST live spectacle or among the curious uninitiated, RITE HERE RITE NOW will put you right there: putting your phones down and living in the moment—as a shadow of uncertainty looms—completely spellbound and in the thrall of this bombastic yet intimate cinematic portrait of GHOST.",
       "releaseInfo": "2024",
       "imdbRating": "8.8",
@@ -673,7 +673,7 @@
       "name": "Federer: Twelve Final Days",
       "poster": "https://image.tmdb.org/t/p/w500/kunqcryDeYZxBg4ESat2We5qRtD.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/sIwhdAN3sqk3oK1fUORqbrG4aEn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qiZwhpP9K4n4aGimBGxIghFndB7.jpg",
       "description": "Originally a home video never intended for public viewing, this film captures the final chapter in Roger Federer's legendary tennis career, featuring Roger, his family, and his three main rivals: Rafael Nadal, Novak Djokovic, and Andy Murray.",
       "releaseInfo": "2024",
       "imdbRating": "7.4",
@@ -2082,21 +2082,6 @@
       "genres": [
         "Documentary",
         "Music"
-      ]
-    },
-    {
-      "id": "tt15085802",
-      "type": "movie",
-      "name": "Untold: Malice at the Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/bjvxSGfghSNTgfVDf3nQ4sJCVJX.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/94DkCX8jbVeJuC98oCGeJufn9P7.jpg",
-      "description": "Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout, and its lasting legacy.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2",
-      "genres": [
-        "Documentary",
-        "Crime"
       ]
     }
   ]
