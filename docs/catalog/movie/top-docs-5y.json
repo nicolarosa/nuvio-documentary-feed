@@ -15,6 +15,22 @@
       ]
     },
     {
+      "id": "tt39316472",
+      "type": "movie",
+      "name": "Jackass: Best and Last",
+      "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+      "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt42863533",
       "type": "movie",
       "name": "Maternal Instinct",
@@ -299,7 +315,7 @@
       "background": "https://image.tmdb.org/t/p/original/kfzZ7oaZrM6O6gc6NVY33Gm4NFW.jpg",
       "description": "Through deep examination, this documentary from Oscar nominee Petra Costa explores the profound impact of evangelism on Brazil's political landscape.",
       "releaseInfo": "2025",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "genres": [
         "Documentary"
       ]
@@ -398,7 +414,7 @@
       "background": "https://image.tmdb.org/t/p/original/zlh5SvcZi30smGzfHoSasN3FJzG.jpg",
       "description": "Karol G pulls back the curtain on her rise to stardom while navigating a sold-out stadium tour, creating new music and releasing a new album.",
       "releaseInfo": "2025",
-      "imdbRating": "7.9",
+      "imdbRating": "8.0",
       "genres": [
         "Documentary",
         "Music"
