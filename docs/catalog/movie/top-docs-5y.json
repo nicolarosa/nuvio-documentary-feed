@@ -23,7 +23,7 @@
       "background": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
       "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "genres": [
         "Action",
         "Comedy",
@@ -99,7 +99,7 @@
       "background": "https://image.tmdb.org/t/p/original/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
       "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "genres": [
         "Documentary"
       ]
@@ -200,7 +200,7 @@
       "background": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
       "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
       "releaseInfo": "2025",
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "genres": [
         "Music",
         "Documentary"
@@ -954,7 +954,7 @@
       "background": "https://image.tmdb.org/t/p/original/fz4wnEWbY3V137tlk9T1NbX1xkD.jpg",
       "description": "Downtown Recife’s classic movie palaces from the 20th century are mostly gone. That city area is now an archaeological site of sorts that reveals aspects of life in society which have been lost. And that’s just part of the story.",
       "releaseInfo": "2023",
-      "imdbRating": "8.1",
+      "imdbRating": "8.0",
       "genres": [
         "Documentary"
       ]
@@ -1892,6 +1892,21 @@
       "genres": [
         "Documentary",
         "Music"
+      ]
+    },
+    {
+      "id": "tt15119170",
+      "type": "movie",
+      "name": "Django & Django: Sergio Corbucci Unchained",
+      "poster": "https://image.tmdb.org/t/p/w500/z5C8S5dEfwh3SDddtqwXanRojQF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/iTtyPk7cZMivnXBBhVkTIGqqqT0.jpg",
+      "description": "A tribute to Italian filmmaker Sergio Corbucci (1926-90), presented by American filmmaker Quentin Tarantino.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.0",
+      "genres": [
+        "Documentary",
+        "History"
       ]
     },
     {
