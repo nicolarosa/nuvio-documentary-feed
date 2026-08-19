@@ -91,6 +91,21 @@
       ]
     },
     {
+      "id": "tt32572716",
+      "type": "movie",
+      "name": "The Truth and Tragedy of Moriah Wilson",
+      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xQFxoGYtwMBAq89DPa9gUcLlOdA.jpg",
+      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt35237771",
       "type": "movie",
       "name": "Ghost Elephants",
@@ -99,7 +114,7 @@
       "background": "https://image.tmdb.org/t/p/original/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
       "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary"
       ]
@@ -635,6 +650,20 @@
       "description": "Embark on a delightful journey into the world of dogs in this documentary that reveals scientific and emotional insights about our lovable BFFs.",
       "releaseInfo": "2024",
       "imdbRating": "7.1",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt30319854",
+      "type": "movie",
+      "name": "Sugarcane",
+      "poster": "https://image.tmdb.org/t/p/w500/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/xoguYBNxXhyiQasTZyIxaYMjcUq.jpg",
+      "description": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0",
       "genres": [
         "Documentary"
       ]
