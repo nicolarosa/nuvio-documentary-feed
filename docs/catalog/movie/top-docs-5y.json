@@ -429,7 +429,7 @@
       "background": "https://image.tmdb.org/t/p/original/zlh5SvcZi30smGzfHoSasN3FJzG.jpg",
       "description": "Karol G pulls back the curtain on her rise to stardom while navigating a sold-out stadium tour, creating new music and releasing a new album.",
       "releaseInfo": "2025",
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "genres": [
         "Documentary",
         "Music"
@@ -939,7 +939,7 @@
       "background": "https://image.tmdb.org/t/p/original/2pBDP2Ip5mQemw3PYTjDLYv9XI9.jpg",
       "description": "A courageous pastor uses his underground network to rescue and aid North Korean families as they risk their lives to embrace freedom.",
       "releaseInfo": "2023",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "genres": [
         "Documentary",
         "History"
@@ -1000,6 +1000,21 @@
       "imdbRating": "8.0",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt27640680",
+      "type": "movie",
+      "name": "The Lady of Silence: The Mataviejitas Murders",
+      "poster": "https://image.tmdb.org/t/p/w500/wB6ez9v9HzSLplIy6m00SPIkuH7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6w101LGjadxjWjqVBvFFrFjyawo.jpg",
+      "description": "Between 1998 and 2005, a wave of murders targeting elderly women hit Mexico City, triggering the hunt for — and capture — of a most unlikely suspect.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.7",
+      "genres": [
+        "Documentary",
+        "Crime"
       ]
     },
     {
@@ -1142,7 +1157,7 @@
       "background": "https://image.tmdb.org/t/p/original/64urMQXrdPVA8hr4PJayN7s5M8l.jpg",
       "description": "A glittery nightclub in 1920s Berlin becomes a haven for the queer community in this documentary exploring the freedoms lost amid Hitler’s rise to power.",
       "releaseInfo": "2023",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "genres": [
         "Documentary"
       ]
@@ -2112,36 +2127,6 @@
       "imdbRating": "7.8",
       "genres": [
         "Documentary"
-      ]
-    },
-    {
-      "id": "tt11225756",
-      "type": "movie",
-      "name": "The Lost Leonardo",
-      "poster": "https://image.tmdb.org/t/p/w500/nVXECwOa4g5ZHND6dOxXjQ5bbpT.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/oKHWB7SSs8jG7HeJHooMFNhbi6f.jpg",
-      "description": "London, England, 2008. Some of the most distinguished experts on the work of Italian artist Leonardo da Vinci (1452-1519) gather at the National Gallery to examine a painting known as Salvator Mundi; an event that turns out to be the first act of one of the most fascinating stories in the history of art.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.2",
-      "genres": [
-        "Documentary",
-        "History"
-      ]
-    },
-    {
-      "id": "tt8399720",
-      "type": "movie",
-      "name": "TINA",
-      "poster": "https://image.tmdb.org/t/p/w500/swU4ohKgD5sSGpQkRF6VbKT0Os0.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/original/wuEiqcDu4Y0kQO6nXGVarKJGLtG.jpg",
-      "description": "Tina Turner overcame impossible odds to become one of the first female Black artists to reach a mainstream international audience. Her road to superstardom is an undeniable story of triumph over adversity. It’s the ultimate story of survival – and an inspirational story of our times.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.7",
-      "genres": [
-        "Documentary",
-        "Music"
       ]
     }
   ]
